@@ -8,3 +8,5 @@ Este template corresponde ao exemplo da Fig. 2.3 do livro. O exercício consiste
 Tarefa individual.
 
 Incluir um Readme descritivo do sistema implementado.
+
+As operações ecolhidas para serem realizadas incluem o cliente se conecta ao servidor, é exibida uma linha onde o usuário e solicitado a digitar uma mensagem, logo após o servidor envia prompt com escolhas de opções de operações: 1 Alterar as letras da mensagem para maiuscula; 2 fazer a concatenção das palavras da mensagem; contar a quantidade de letras na mensagem. Sendo que o cliente fica com as atividades em aberto até que o usuário decida encerrar as atividade por meio do exit. Assim, cliente e servidor finalizam a comunicação.
